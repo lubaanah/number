@@ -10,7 +10,7 @@ public class ReverseString {
         String reversed = new StringBuilder(input).reverse().toString();
 
         System.out.println("Reversed number: " + reversed);
-        System.out.println("reversed numbers"
+        System.out.println("reversed numbeer"
     }
 }
 
