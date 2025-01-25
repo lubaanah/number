@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class ReverseString {
     public static void main(String[] args) {
@@ -7,4 +7,10 @@ public class ReverseString {
         String input = scanner.nextLine();
 
         // Reverse the string
-        String re
+        String reversed = new StringBuilder(input).reverse().toString();
+
+        System.out.println("Reversed number: " + reversed);
+        System.out.println("reversed numbers"
+    }
+}
+
